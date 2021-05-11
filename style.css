@@ -6,6 +6,7 @@
 .nav-pills li {
 
     margin-left:25px;
+    
 }
 
 
@@ -13,4 +14,6 @@ body {
     background-color: #DBF9FC;
     }
 
- 
+.nav-pills > li > a.active {
+     background-color:lightcoral !important;
+    }
